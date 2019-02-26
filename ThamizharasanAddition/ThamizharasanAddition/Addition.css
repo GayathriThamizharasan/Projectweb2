@@ -1,0 +1,25 @@
+﻿body {
+    background-color: violet;
+}
+
+h1 {
+    text-align: center;
+    background-color: greenyellow;
+}
+
+#image {
+    width: auto;
+    position: relative;
+}
+
+#answer {
+    width: auto;
+    position: relative;
+}
+
+
+
+#values {
+    width: auto;
+    position: relative;
+}
